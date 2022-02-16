@@ -19,7 +19,7 @@ First clone the project
 CD into the workshop
 
 ```
-cd pytealworkshop
+cd workshop-pyteal
 ```
 
 # Setup and Activate Python Environment
@@ -31,7 +31,7 @@ source .venv/bin/activate
 # pip install pyteal  
 # to install the latest from Github use
 pip install git+https://github.com/algorand/pyteal
-# install the Algorand python SDK - note this installed automatically with pyteal
+# install the Algorand python SDK
 # pip3 install py-algorand-sdk
 ```
 
